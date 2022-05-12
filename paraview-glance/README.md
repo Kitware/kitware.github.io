@@ -1,1 +1,1 @@
-The "paraview-glance" repo has been renamed to "Glance", necessitating these page redirects.
+The "paraview-glance" repo has been renamed to "glance", necessitating these page redirects.
